@@ -41,6 +41,7 @@ The project consists of several TypeScript files, each serving a specific purpos
 | `airdrop.ts`     | Requests an airdrop of SOL tokens to a specified wallet.    |
 | `prereq.ts`      | Defines the program's IDL (Interface Definition Language) and data structures.|
 
+
 ## Scripts
 ### Enrollment Script (`enroll.ts`)
 This script enrolls a user by completing a transaction that includes their GitHub account information.
